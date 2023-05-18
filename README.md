@@ -39,5 +39,5 @@ https://en.wikipedia.org/wiki/Subsurface_scattering
 Settings can be changed in the file *UserData/modprefs.ini*, of which HSSSSforVR setting tag is added the first time you start the game.  
 Tag      | Default | Effect |
 ----     | ------  | ------ |
-`<NormalBlurIterationAlwaysSetAt0>` | 1 | In order to avoid decreased FPS, .
-`<backDirectionalLightAlphaAlwaysSetAt0>` | 1 | The buffer for speed calculation of VR controllers. Bigger, more proper.
+`<NormalBlurIterationAlwaysSetAt0>` | 1 | In order to avoid decreased FPS,  [Normal Blur Iterations] value of HSSSS on VR is set at 0 whenever game starting, scene loading.
+`<backDirectionalLightAlphaAlwaysSetAt0>` | 1 | In order to improve looks of charas, alpha value of backlight is set at 0 always.
