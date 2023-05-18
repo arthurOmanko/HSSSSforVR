@@ -1,5 +1,5 @@
 # HSSSSforVR
-HSSSSforVR
+
 # HoneySelect HSSSS on VR mod
 
 This experimantal mod is for applying HSSSS.dll (already existing HoneySelect Subsurface Scattering(SSS) Shader mod) on VR.
@@ -36,11 +36,8 @@ https://en.wikipedia.org/wiki/Subsurface_scattering
 - Same as HSSSS.dll
 
 ## Settings & Tweaks
-
-Settings can be changed in the file *modprefs.xml*, of which setting tag is added the first time you start the game.  
+Settings can be changed in the file *UserData/modprefs.ini*, of which HSSSSforVR setting tag is added the first time you start the game.  
 Tag      | Default | Effect |
 ----     | ------  | ------ |
-`<HandScale>` | 1,1,1 | The size of VR controllers.
-`<VelocityBufferSize>` | 5 | The buffer for speed calculation of VR controllers. Bigger, more proper.
-`<Damping>` | 0.2 | The inverse of speed of return from bones changing. Smaller, more speedy.
-`<GrabDampingDivisor>` | 16 | The speed of return from bones changing when grabbing. Bigger, more speedy.
+`<NormalBlurIterationAlwaysSetAt0>` | 1 | In order to avoid decreased FPS, .
+`<backDirectionalLightAlphaAlwaysSetAt0>` | 1 | The buffer for speed calculation of VR controllers. Bigger, more proper.
