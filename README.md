@@ -20,7 +20,8 @@ https://en.wikipedia.org/wiki/Subsurface_scattering
 - On HSSSS config menu, especially, [Normal Blur Iterations] value must be smaller on VR, 
   otherwise FPS on VR will get much decreased.
 - Alpha value of backlight would influence looks of charas largely.
-  If so, please set alpha value of backlight at 0. 
+  If so, please set alpha value of backlight at 0.
+- Please be careful about HSSSS.dll and HSSSSforVR.dll version, because this might not work properly when different version dlls.
 
 
 ## [Requirements]
