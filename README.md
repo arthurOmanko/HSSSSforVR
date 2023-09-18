@@ -11,7 +11,7 @@ https://en.wikipedia.org/wiki/Subsurface_scattering
 
 ## [Installation]
 1. Extract the zip file into User's HoneySelect directory.
-2. Run HoneySelect_(64|32).exe or StudioNEO_(64|32).exe with --vr option (when having VRmod and being able to use on HOneySelect or StudioNEO)
+2. Run HoneySelect_(64|32).exe or StudioNEO_(64|32).exe with --vr option (when having VRmod and being able to use on HoneySelect or StudioNEO)
 3. Enjoy super high quality on VR!
 
 **Caution!** 
@@ -29,7 +29,7 @@ https://en.wikipedia.org/wiki/Subsurface_scattering
 - VRmod (VRGIN.dll)
 - HSExtSave.dll
 - HoneySelect Subsurface Scattering(SSS) Shader mod (HSSSS.dll)
-  version *.*.* (or more (presently not guaranteed))
+  version ?.?.? (or more (presently not guaranteed))
 
 
 ## [Usage]
