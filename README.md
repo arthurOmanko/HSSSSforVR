@@ -21,7 +21,7 @@ https://en.wikipedia.org/wiki/Subsurface_scattering
   otherwise FPS on VR will get much decreased.
 - Alpha value of backlight would influence looks of charas largely.
   If so, please set alpha value of backlight at 0.
-- If [AmbientOcclusion] or [GlobalIllumination] enabled on HSSSS config in VR and having heavy setting, FPS on VR might be much decreased.
+- If [AmbientOcclusion] or [GlobalIllumination] enabled on HSSSS config in VR scene and having heavy setting, FPS on VR might be much decreased.
   Then recondiser to make them lighter or off.
 
 
