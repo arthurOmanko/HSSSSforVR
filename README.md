@@ -16,12 +16,13 @@ https://en.wikipedia.org/wiki/Subsurface_scattering
 
 **Caution!** 
 - This mod is currently able to be used on StudioNEO and MainGame+CharaMake.
-  Or By different version of HSSSS.dll, this might maybe not be able to get used.
+  Or By different version of HSSSS.dll and HSSSSforVR.dll, this might maybe not be able to get used.
 - On HSSSS config menu, especially, [Normal Blur Iterations] value must be smaller on VR, 
   otherwise FPS on VR will get much decreased.
 - Alpha value of backlight would influence looks of charas largely.
   If so, please set alpha value of backlight at 0.
-- Please be careful about HSSSS.dll and HSSSSforVR.dll version, because this might not work properly when different version dlls.
+- If [AmbientOcclusion] or [GlobalIllumination] enabled on HSSSS config in VR and having heavy setting, FPS on VR might be much decreased.
+  Then recondiser to make them off or lighter.
 
 
 ## [Requirements]
