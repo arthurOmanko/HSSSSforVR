@@ -16,7 +16,7 @@ https://en.wikipedia.org/wiki/Subsurface_scattering
 
 **Caution!** 
 - This mod is currently able to be used on StudioNEO and MainGame+CharaMake.
-  Or By different version of HSSSS.dll and HSSSSforVR.dll, this might maybe not be able to get used properly.
+  Or by different version of HSSSS.dll and HSSSSforVR.dll, this might maybe not be able to get used properly.
 - On HSSSS config menu, especially, [Normal Blur Iterations] value must be smaller on VR, 
   otherwise FPS on VR will get much decreased.
 - Alpha value of backlight would influence looks of charas largely.
@@ -44,5 +44,5 @@ Please remove HSSSSforVR.dll in (${GameFolder}\Plugins). Or when you remove/unin
 Settings can be changed in the file *UserData/modprefs.ini*, of which HSSSSforVR setting tag is added the first time you start the game.  
 Tag      | Default | Effect |
 ----     | ------  | ------ |
-`<NormalBlurIterationAlwaysSetAt0>` | 1 | In order to avoid decreased FPS,  [Normal Blur Iterations] value of HSSSS on VR is set at 0 whenever game starting, scene loading.
-`<backDirectionalLightAlphaAlwaysSetAt0>` | 1 | In order to improve looks of charas, alpha value of backlight is set at 0 always on VR.
+`<NormalBlurIterationAlwaysSetAt0>` | 1 | In order to avoid decreased FPS,  [Normal Blur Iterations] value of HSSSS on VR is set at 0 whenever game starting, scene loading. [0 = not set, 1 = set at 0]
+`<backDirectionalLightAlphaAlwaysSetAt0>` | 1 | In order to improve looks of charas, alpha value of default directional backlight (attached at VRCamera) is set at 0 always on VR. [0 = not set, 1 = set at 0]
