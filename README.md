@@ -38,7 +38,7 @@ https://en.wikipedia.org/wiki/Subsurface_scattering
 - Same as HSSSS.dll
 
 ## [Uninstall]
-Please remove HSSSSforVR.dll in ($(GameRootFolder/Plugins). Or when you remove/uninstall HSSSS.dll, please also remove HSSSSforVR.dll at same time.
+Please remove HSSSSforVR.dll in (${GameFolder}\Plugins). Or when you remove/uninstall HSSSS.dll, please also remove HSSSSforVR.dll at same time.
 
 ## Settings & Tweaks
 Settings can be changed in the file *UserData/modprefs.ini*, of which HSSSSforVR setting tag is added the first time you start the game.  
