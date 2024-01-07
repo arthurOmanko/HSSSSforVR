@@ -1,5 +1,5 @@
 
-![HSSSSforVR](https://github.com/arthurOmanko/HSSSSforVR/assets/68005887/6bcae923-5174-46b0-b3c2-d645dbfddb54)
+![HSSSSforVR170](https://github.com/arthurOmanko/HSSSSforVR/assets/68005887/6d7c4636-815b-4b3d-b12d-8f7c4f9f3904)
 
 # HoneySelect HSSSS on VR mod
 This experimantal mod is for applying HSSSS.dll (already existing HoneySelect Subsurface Scattering(SSS) Shader mod) on VR.
