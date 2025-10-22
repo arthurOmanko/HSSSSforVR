@@ -2,6 +2,9 @@
 ![HSSSSforVR170](https://github.com/arthurOmanko/HSSSSforVR/assets/68005887/6d7c4636-815b-4b3d-b12d-8f7c4f9f3904)
 
 # HoneySelect HSSSS on VR mod
+
+***(<ins>Updated items since previous version getting underline characters</ins>)***
+
 This experimantal mod is for applying HSSSS.dll (already existing HoneySelect Subsurface Scattering(SSS) Shader mod) on VR.
 If User wants to know about Subsurface Scattering in detail, please see the below,
 
@@ -31,7 +34,7 @@ https://en.wikipedia.org/wiki/Subsurface_scattering
 - VRmod (VRGIN.dll)
 - HSExtSave.dll
 - HoneySelect Subsurface Scattering(SSS) Shader mod (HSSSS.dll)
-  version 2.0.0_beta2 (or more (presently not guaranteed on VR))
+  ***<ins>version 2.0.1 (or more (presently not guaranteed on VR). ((Especially version 2.0.2a seems to have some bugs on VR so DON'T USE HSSSS version 2.0.2a on VR)) )</ins>***
 
 
 ## [Usage]
