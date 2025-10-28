@@ -1,5 +1,4 @@
-
-![HSSSSforVR170](https://github.com/arthurOmanko/HSSSSforVR/assets/68005887/6d7c4636-815b-4b3d-b12d-8f7c4f9f3904)
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/bb9160fb-8cad-4843-b9cf-e4f6560b2435" />
 
 # HoneySelect HSSSS on VR mod
 
