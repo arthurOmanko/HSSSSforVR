@@ -33,7 +33,7 @@ https://en.wikipedia.org/wiki/Subsurface_scattering
 - VRmod (VRGIN.dll)
 - HSExtSave.dll
 - HoneySelect Subsurface Scattering(SSS) Shader mod (HSSSS.dll)
-  ***<ins>version 2.0.1 (or more (presently not guaranteed on VR). ((Especially version 2.0.2a seems to have some bugs on VR so DON'T USE HSSSS version 2.0.2a on VR)) )</ins>***
+  ***<ins>version 2.0.1 (or more (presently not guaranteed on VR). ((Especially version 2.0.2a seems to have some bugs on VR so please DON'T USE HSSSS version 2.0.2a on VR)) )</ins>***
 
 
 ## [Usage]
